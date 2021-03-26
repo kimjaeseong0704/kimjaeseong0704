@@ -21,6 +21,11 @@ for(var i=0; i < 10; i++){
 ###### Work experience
 
 - KT : SEEZN
+- STARBUCKS : on-demand
+- SK : MYSUNI
+- SKT : E-Optimizer
+- KT : Olleh TV Mobile 
+- SKT : UX GUIDELINE
 
 ###### Play game
 
