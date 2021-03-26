@@ -18,8 +18,17 @@ for(var i=0; i < 10; i++){
 }
 ~~~
 
-## Working company
+## Education
+- 학점은행 정보통신공학 학사 (2017.08)
+- 청강문화산업대학교 소프트웨어과 전문학사 (2008.02)
 
+## Certificate
+- 정보처리산업기사 (2008)
+- 정보기기운용기능사 (2001)
+- 정보처리기능사 (2001)
+- 컴퓨터그래픽스운용기능사 (2000)
+
+## Working company
 - 라이트브레인 (2017.02 ~ 현재)
 - 더썸컴퍼니 (2014.10 ~ 2016.11)
 - 아이파트너즈 (2013.08 ~ 2014.09) 계약직
@@ -30,7 +39,6 @@ for(var i=0; i < 10; i++){
 - 바파커뮤니케이션즈 (2009.03 ~ 2009.08)
 
 ## Work experience
-
 - KT : SEENZ (운영)
 - KT : SEEZN (구축)
 - STARBUCKS : on-demand (구축)
@@ -58,19 +66,10 @@ for(var i=0; i < 10; i++){
 - 와이디온라인 : 소속사이트 (운영)
 - 이하 생략...
 
-## Certificate
-
-- 정보처리산업기사 (2008)
-- 정보기기운용기능사 (2001)
-- 정보처리기능사 (2001)
-- 컴퓨터그래픽스운용기능사 (2000)
-
 ## Play game
-
 - [lineage M](https://lineagem.plaync.com/)
 - [Clash Royal](https://play.google.com/store/apps/details?id=com.supercell.clashroyale&hl=ko&gl=US)
 
 ## SNS
-
 - [facebook](https://www.facebook.com/profile.php?id=100006659101185)
 - [instagram](https://www.instagram.com/iview83/)
