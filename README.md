@@ -9,7 +9,7 @@
 ### h3
 #### h4
 ##### h5
-###### h6
+
 
 ~~~javascript
 
@@ -17,6 +17,7 @@ for(var i=0; i < 10; i++){
 
 }
 ~~~
+###### SNS
 
 [facebook](https://www.facebook.com/profile.php?id=100006659101185)
 [instagram](https://www.instagram.com/iview83/)
