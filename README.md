@@ -21,8 +21,8 @@ for(var i=0; i < 10; i++){
 ###### Work experience
 
 > 2020
-> > KT : SEEZN
-> > STARBUCKS : on-demand
+> > - KT : SEEZN
+> > - STARBUCKS : on-demand
 
 
 2019
