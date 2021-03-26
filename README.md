@@ -24,7 +24,7 @@ for(var i=0; i < 10; i++){
 > > - KT : SEEZN
 > > - STARBUCKS : on-demand
 
-2019
+> 2019
 > > - SK : MYSUNI
 > > - SKT : E-Optimizer
 > > - KT : Olleh TV Mobile 
