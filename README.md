@@ -18,7 +18,7 @@ for(var i=0; i < 10; i++){
 }
 ~~~
 
-###### Working company
+## Working company
 
 - 라이트브레인 (2017.02 ~ 현재)
 - 더썸컴퍼니 (2014.10 ~ 2016.11)
@@ -29,7 +29,7 @@ for(var i=0; i < 10; i++){
 - 라이트브레인 (2009.09 ~ 2010.05)
 - 바파커뮤니케이션즈 (2009.03 ~ 2009.08)
 
-###### Work experience
+## Work experience
 
 - KT : SEENZ (운영)
 - KT : SEEZN (구축)
@@ -58,19 +58,19 @@ for(var i=0; i < 10; i++){
 - 와이디온라인 : 소속사이트 (운영)
 - 이하 생략...
 
-###### Certificate
+## Certificate
 
 - 정보처리산업기사 (2008)
 - 정보기기운용기능사 (2001)
 - 정보처리기능사 (2001)
 - 컴퓨터그래픽스운용기능사 (2000)
 
-###### Play game
+## Play game
 
 - [lineage M](https://lineagem.plaync.com/)
 - [Clash Royal](https://play.google.com/store/apps/details?id=com.supercell.clashroyale&hl=ko&gl=US)
 
-###### SNS
+## SNS
 
 - [facebook](https://www.facebook.com/profile.php?id=100006659101185)
 - [instagram](https://www.instagram.com/iview83/)
