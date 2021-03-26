@@ -17,8 +17,10 @@ for(var i=0; i < 10; i++){
 
 }
 ~~~
-###### SNS
 
+###### contact
+
+- [email](mailto:composure0704@gmail.com)
 - [facebook](https://www.facebook.com/profile.php?id=100006659101185)
 - [instagram](https://www.instagram.com/iview83/)
 
