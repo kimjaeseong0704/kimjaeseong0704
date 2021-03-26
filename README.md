@@ -17,6 +17,12 @@ for(var i=0; i < 10; i++){
 
 }
 ~~~
+#### Interest 
+
+##### game
+
+- lineage M (https://lineagem.plaync.com/)
+- Clash Royal
 
 ###### SNS
 
