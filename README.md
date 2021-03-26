@@ -21,7 +21,7 @@ for(var i=0; i < 10; i++){
 
 ##### game
 
-- lineage M (https://lineagem.plaync.com/)
+- lineageM(https://lineagem.plaync.com/)
 - Clash Royal
 
 ###### SNS
