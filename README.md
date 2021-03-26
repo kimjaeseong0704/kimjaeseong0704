@@ -19,8 +19,8 @@ for(var i=0; i < 10; i++){
 ~~~
 ###### SNS
 
-[facebook](https://www.facebook.com/profile.php?id=100006659101185)
-[instagram](https://www.instagram.com/iview83/)
+- [facebook](https://www.facebook.com/profile.php?id=100006659101185)
+- [instagram](https://www.instagram.com/iview83/)
 
 <!---
 kimjaeseong0704/kimjaeseong0704 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
