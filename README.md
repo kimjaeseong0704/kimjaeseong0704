@@ -20,15 +20,15 @@ for(var i=0; i < 10; i++){
 
 ###### Work experience
 
-> 2020
-> > - KT : SEEZN
-> > - STARBUCKS : on-demand
+2020
+> - KT : SEEZN
+> - STARBUCKS : on-demand
 
-> 2019
-> > - SK : MYSUNI
-> > - SKT : E-Optimizer
-> > - KT : Olleh TV Mobile 
-> > - SKT : UX GUIDELINE
+2019
+> - SK : MYSUNI
+> - SKT : E-Optimizer
+> - KT : Olleh TV Mobile 
+> - SKT : UX GUIDELINE
 
 > 2018 
 > > - SKT : T world MobileAPP
