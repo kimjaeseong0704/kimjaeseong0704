@@ -23,12 +23,13 @@ for(var i=0; i < 10; i++){
 > 2020
 > > - KT : SEEZN
 > > - STARBUCKS : on-demand
-> 2019
+
+2019
 > > - SK : MYSUNI
 > > - SKT : E-Optimizer
 > > - KT : Olleh TV Mobile 
 > > - SKT : UX GUIDELINE
-> 2018 
+2018 
 > > - SKT : T world MobileAPP
 
 2017 
