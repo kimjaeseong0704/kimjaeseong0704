@@ -20,8 +20,9 @@ for(var i=0; i < 10; i++){
 
 ###### Work experience
 
+- KT : SEEZN
 
-###### game
+###### Play game
 
 - [lineage M](https://lineagem.plaync.com/)
 - [Clash Royal](https://play.google.com/store/apps/details?id=com.supercell.clashroyale&hl=ko&gl=US)
