@@ -30,13 +30,19 @@ for(var i=0; i < 10; i++){
 > - KT : Olleh TV Mobile 
 > - SKT : UX GUIDELINE
 
-> 2018 
-> > - SKT : T world MobileAPP
+2018 
+> - SKT : T world MobileAPP
 
-> 2017 
-> > - LG : IDWA
-> > - 신한은행 : 수퍼플랫폼 UX/UI 컨설팅
-> > - 경기도주식회사 : 경기도주식회사
+2017 
+> - LG : IDWA
+> - 신한은행 : 수퍼플랫폼 UX/UI 컨설팅
+> - 경기도주식회사 : 경기도주식회사
+> - KT : OTT
+> - SKP : T LIFE
+
+2016
+> - 하나카드 : 전자지갑 앱 고도화 하나1Q페이
+
 
 
 
