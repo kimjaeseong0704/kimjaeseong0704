@@ -1,23 +1,3 @@
-- 👋 Hi, I’m @kimjaeseong0704
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-# h1
-## h2
-### h3
-#### h4
-##### h5
-
-
-~~~javascript
-
-for(var i=0; i < 10; i++){
-
-}
-~~~
-
 ## Education
 - 학점은행 정보통신공학 : 학사 (2017.08)
 - 청강문화산업대학교 소프트웨어과 : 전문학사 (2008.02)
@@ -43,10 +23,6 @@ for(var i=0; i < 10; i++){
   - Jquery &#128525;
 - GulpJS &#128525;
 - Web Accessibility &#128514;
-
-## I want
-- Vue
-- React
 
 ## Working company
 - 라이트브레인 (2017.02 ~ 현재)
@@ -93,3 +69,4 @@ for(var i=0; i < 10; i++){
 ## SNS
 - [facebook](https://www.facebook.com/profile.php?id=100006659101185)
 - [instagram](https://www.instagram.com/iview83/)
+- kakaotalk id : composure0704
