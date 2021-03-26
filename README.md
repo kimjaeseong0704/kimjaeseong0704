@@ -36,15 +36,17 @@ for(var i=0; i < 10; i++){
   - 4.01 &#128525;
   - 5 &#128514;
 - CSS
-  - 2 : &#128525;
-  - 3 : &#128525;
-  - SCSS : &#128514;
+  - 2,3 &#128525;
+  - SCSS &#128514;
 - JAVASCRIPT
   - vanilla &#128514;
   - Jquery &#128525;
+- GulpJS &#128525;
+- Web Accessibility &#128514;
 
-## Skill I want
-
+## I want
+- Vue
+- React
 
 ## Working company
 - 라이트브레인 (2017.02 ~ 현재)
