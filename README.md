@@ -69,4 +69,4 @@
 ## SNS
 - [facebook](https://www.facebook.com/profile.php?id=100006659101185)
 - [instagram](https://www.instagram.com/iview83/)
-- kakaotalk id : composure0704
+- kakaotalk : composure0704
