@@ -20,12 +20,25 @@ for(var i=0; i < 10; i++){
 
 ###### Work experience
 
+2020
 - KT : SEEZN
 - STARBUCKS : on-demand
+
+2019
 - SK : MYSUNI
 - SKT : E-Optimizer
 - KT : Olleh TV Mobile 
 - SKT : UX GUIDELINE
+
+2018 
+- SKT : T world MobileAPP
+
+2017 
+- LG : IDWA
+- 신한은행 : 수퍼플랫폼 UX/UI 컨설팅
+- 경기도주식회사 : 경기도주식회사
+
+
 
 ###### Play game
 
