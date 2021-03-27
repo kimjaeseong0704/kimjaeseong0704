@@ -70,3 +70,8 @@
 - [facebook](https://www.facebook.com/profile.php?id=100006659101185)
 - [instagram](https://www.instagram.com/iview83/)
 - kakaotalk : composure0704
+
+## 하고 싶은 말
+- 욕심부리지 말자
+- 정직하게 살자
+- 착한것은 죄다
