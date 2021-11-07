@@ -73,6 +73,7 @@
 - [facebook](https://www.facebook.com/profile.php?id=100006659101185)
 - [instagram](https://www.instagram.com/kimjaseseong888/)
 - kakaotalk : composure0704
+- [tistory](https://kimjaeseong.tistory.com/)
 
 ## MBTI
 - [INFJ](https://namu.wiki/w/INFJ#s-4.1)
