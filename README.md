@@ -22,6 +22,8 @@
   - vanilla &#128514;
   - Jquery &#128525;
 - GulpJS &#128525;
+- VueJs
+  - 2.x &#128514;
 - Web Accessibility &#128514;
 
 ## Working company
@@ -35,6 +37,7 @@
 - 바파커뮤니케이션즈 (2009.03 ~ 2009.08)
 
 ## Work experience
+- 삼성카드 : 통합플랫폼 (APP : 구축)
 - KT : SEEZN (OTT : 운영)
 - KT : SEEZN (OTT : 구축)
 - STARBUCKS : on-demand (주문 : 구축)
@@ -70,6 +73,9 @@
 - [facebook](https://www.facebook.com/profile.php?id=100006659101185)
 - [instagram](https://www.instagram.com/iview83/)
 - kakaotalk : composure0704
+
+## MBTI
+- [INFJ](https://namu.wiki/w/INFJ#s-4.1)
 
 ## 하고 싶은 말
 - 욕심부리지 말자
