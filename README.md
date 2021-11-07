@@ -71,7 +71,7 @@
 
 ## SNS
 - [facebook](https://www.facebook.com/profile.php?id=100006659101185)
-- [instagram](https://www.instagram.com/iview83/)
+- [instagram](https://www.instagram.com/kimjaseseong888/)
 - kakaotalk : composure0704
 
 ## MBTI
