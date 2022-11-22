@@ -69,12 +69,13 @@
 ## Play game
 - ~~[lineage M]~~(https://lineagem.plaync.com/)
 - [Clash Royal](https://play.google.com/store/apps/details?id=com.supercell.clashroyale&hl=ko&gl=US)
+- [탕탕특공대](https://play.google.com/store/apps/details?id=com.dxx.firenow&hl=ko&gl=US)
 
 ## SNS
 - [facebook](https://www.facebook.com/profile.php?id=100006659101185)
-- [instagram](https://www.instagram.com/kimjaseseong888/)
+- ~~[instagram](https://www.instagram.com/kimjaseseong888/)
 - kakaotalk : composure0704
-- [tistory](https://kimjaeseong.tistory.com/)
+- ~~[tistory](https://kimjaeseong.tistory.com/)
 
 ## MBTI
 - [INFJ](https://namu.wiki/w/INFJ#s-4.1)
