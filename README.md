@@ -36,9 +36,10 @@
 - 라이트브레인 (2009.09 ~ 2010.05)
 - 바파커뮤니케이션즈 (2009.03 ~ 2009.08)
 
-## Work experience
-- 유플러스 : 금융 마이데이터 플랫폼 (APP : 구축)
-- 삼성카드 : 통합플랫폼 (APP : 구축)
+## Work experience 
+- KT : 지니에어 (APP : 구축 - VUE 2)
+- 유플러스 : 금융 마이데이터 플랫폼 (APP : 구축 - REACT + MUI)
+- 삼성카드 : 통합플랫폼 (APP : 구축 - VUE 2 + VUETIFY)
 - KT : SEEZN (OTT : 운영)
 - KT : SEEZN (OTT : 구축)
 - STARBUCKS : on-demand (주문 : 구축)
@@ -69,13 +70,13 @@
 ## Play game
 - ~~[lineage M]~~(https://lineagem.plaync.com/)
 - [Clash Royal](https://play.google.com/store/apps/details?id=com.supercell.clashroyale&hl=ko&gl=US)
-- [탕탕특공대](https://play.google.com/store/apps/details?id=com.dxx.firenow&hl=ko&gl=US)
+- ~~[탕탕특공대]~~(https://play.google.com/store/apps/details?id=com.dxx.firenow&hl=ko&gl=US)
 
 ## SNS
 - [facebook](https://www.facebook.com/profile.php?id=100006659101185)
 - [instagram](https://www.instagram.com/kimjaseseong888/)
 - kakaotalk : composure0704
-- [tistory](https://kimjaeseong.tistory.com/)
+- ~~[tistory]~~(https://kimjaeseong.tistory.com/)
 
 ## MBTI
 - [INFJ](https://namu.wiki/w/INFJ#s-4.1)
