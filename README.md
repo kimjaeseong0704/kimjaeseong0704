@@ -37,6 +37,7 @@
 - 바파커뮤니케이션즈 (2009.03 ~ 2009.08)
 
 ## Work experience 
+- LG CNS : 미래엔 2024.1 ~ (교육 : 구축 REACT + MUI + TYPESCRIPT)
 - LG CNS : 서브원 프론트업그레이드 2023.6 ~ 2023.7 (리뉴얼 - JSP 레거시 기반 리뉴얼)
 - KT : 지니에어 2023.1 ~ 2023.3 (APP : 구축 - VUE 2)
 - 유플러스 : 금융 마이데이터 플랫폼 2022.3 ~ 2022.12 (APP : 구축 - REACT + MUI)
@@ -69,6 +70,7 @@
 - 이하 생략...
 
 ## Play game
+- [원신](https://genshin.hoyoverse.com/ko)
 - ~~[lineage M]~~(https://lineagem.plaync.com/)
 - [Clash Royal](https://play.google.com/store/apps/details?id=com.supercell.clashroyale&hl=ko&gl=US)
 - ~~[탕탕특공대]~~(https://play.google.com/store/apps/details?id=com.dxx.firenow&hl=ko&gl=US)
